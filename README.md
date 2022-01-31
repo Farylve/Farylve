@@ -27,3 +27,6 @@ And I'm a JavaScript Developer from Moscow!
 ## 🔎 You can find me here:
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilysenkov.work@gmail.com) [![TG](https://img.shields.io/badge/Telegra-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/isWorkIvan)
+
+##
+![](https://visitor-badge.glitch.me/badge?page_id=Farylve)
